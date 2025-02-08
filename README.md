@@ -1,4 +1,4 @@
-# Mikhail Filippov's Personal Repo
+# Mikhail Filippov's README
 #### Contact Info:
 filippovm@msoe.edu  
 [LinkedIn](linkedin.com/in/mikhail-filippov/)
