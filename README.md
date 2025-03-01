@@ -1,7 +1,7 @@
 # Mikhail Filippov's README
 #### Contact Info:
 filippovm@msoe.edu  
-[LinkedIn](linkedin.com/in/mikhail-filippov/)
+[LinkedIn](https://www.linkedin.com/in/mikhail-filippov/)
 
 ## Projects
 ### `API_App`
