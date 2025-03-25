@@ -4,7 +4,7 @@ filippovm@msoe.edu
 [LinkedIn](https://www.linkedin.com/in/mikhail-filippov/)
 
 ## Projects
-### `API_App`
+### [`API_App`](https://github.com/mifi2945/Global_Trivia)
 This application will be a country trivia game that relies on an API full of countries (you can find the link [here](https://nationnode.vercel.app/)). The goal of the game will be to guess the country by flag, any neighboring countries you know, and get within a reasonable population size of the country. A `README.md` is included with more info for that specific project. Fun! 🗺️
 
 ## A Little About Me (and my skills!⚙️)
